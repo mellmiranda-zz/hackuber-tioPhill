@@ -1,0 +1,72 @@
+html{
+    font-family: 'Roboto', sans-serif;
+
+}
+.bg-tiophill{
+    background: #F26913;
+    box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 0px 0px 20px 20px;
+    flex-direction: row-reverse;
+}
+
+.popup-tiophill{
+    position: absolute;
+    width: 271px;
+    height: 54px;
+    left: 70px;
+    top: 55px;
+    
+    background: #E35800;
+    border-radius: 0px 0px 100px 100px;
+}
+
+.text-popup{
+    margin-left: 39px;
+    font-size: 24px;
+    color: white
+}
+
+.btn-tiophill{
+    position: absolute;
+    width: 300px;
+    height: 72px;
+    left: 55px;
+    top: 611px;
+    font-size: 24px;
+    background: #F26913;
+    box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 100px;
+    color: white
+}
+
+.map-tiophill{
+    margin-top: 20px;
+}
+
+button a{
+    background-color: white;
+}
+
+.bgk{
+    background-image: url(./img/Group.png);
+    background-repeat: no-repeat;
+}
+
+.bgk-falta{
+    background-image: url(./img/Group_falta.png);
+    background-repeat: no-repeat;
+}
+
+.bkg-motorista{
+    background-image: url(./img/motorista.png);
+    background-repeat: no-repeat;
+}
+.bkg-responsaveis{
+    background-image: url(./img/responsaveis.png);
+    background-repeat: no-repeat;
+}
+
+.bkg-responsaveis{
+    background-image: url(./img/bkg_responsaveis.png);
+    background-repeat: no-repeat;
+}
